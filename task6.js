@@ -24,5 +24,4 @@ function generateRandomPassword(length) {
   return password;
 }
 
-// Example: Generate a random password of length 12
 console.log(generateRandomPassword(8));
